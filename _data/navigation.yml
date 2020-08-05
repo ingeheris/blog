@@ -1,0 +1,11 @@
+main:
+  - title: "Publicaciones"
+    url: /year-archive/
+    description : "Todo lo relecionado con el Marketing digital"
+  - title: "Categorias"
+    url: /categories/
+  - title: "Acerca de Nosotros"
+    url: /about/
+  - title: "Sitemap"
+    url: /sitemap/
+  

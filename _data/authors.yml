@@ -1,0 +1,27 @@
+Alan Kleber:
+  name        : "Alan Kleber"
+  bio         : "CTO/IT Manager"
+  avatar      : "/assets/images/alan-logo.jpeg"
+  location    : "Puerto de Sagunto/Valencia"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:alan@ingeheris.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ingeheris.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/leanproddev"
+
+Maria Jose:
+  name        : "María José Ruiz"
+  bio         : "Especialista en Marketing Digital"
+  avatar      : "/assets/images/mj.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mjose@ingeheris.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MJoseRuiz_seo"
