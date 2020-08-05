@@ -1,9 +1,10 @@
 main:
   - title: "Publicaciones"
     url: /year-archive/
-    description : "Todo lo relecionado con el Marketing digital"
-  - title: "Categorias"
+    description : "Todas nuestras publicaciones ordenadas por año."
+  - title: "Categorías"
     url: /categories/
+    description : "Todas nuestras publicaciones ordenadas por categorías."
   - title: "Acerca de Nosotros"
     url: /about/
   - title: "Sitemap"
