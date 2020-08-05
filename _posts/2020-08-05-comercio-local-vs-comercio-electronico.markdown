@@ -37,7 +37,7 @@ Hay tres pasos muy sencillo que ya conoces en su “versión presencial”, es d
 
 ## FORMAS DE LLEGAR A TUS CLIENTES DE MANERA ELECTRÓNICA
 
-![alt text](/assets/images/online-marketing.png)
+![alt text](/blog/assets/images/online-marketing.png)
 
 Hay muchas y diferentes acciones que se pueden hacer y que no tienen que ser costosas pero que te ayudarán a fidelizar a tus clientes de toda la vida, a ganar a otros y, además, si tuviéramos que vivir situaciones difíciles como un nuevo confinamiento, conseguiríamos mantener nuestros negocios “abiertos” para todos y, seguro, que los clientes de toda la vida estaremos encantados de continuar comprando. Un buen uso de las redes sociales es un factor primordial, así como un espacio propio para tu negocio en la red.
 Para muchos, todo esto es un desafío inmenso ya que conceptos como redes sociales, comercio online, facebook, páginas web, landing page o e-commerce son totalmente desconocidos. Pero no hay que preocuparse ya que hay empresas que se dedican a facilitar la tarea a aquellos que lo necesitan. Ya he mencionado en alguna ocasión a la empresa Ingeheris. Esta pequeña empresa familiar está encantada de ayudar a los comercios locales que le soliciten sus servicios con soluciones a medida según las necesidades del clientes. ¡Seguro que será coser y cantar!
