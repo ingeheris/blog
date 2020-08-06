@@ -3,8 +3,9 @@ layout: single
 title: Comercio local VS Comercio electrónico
 categories: Marketing
 tags:
-  - Tienda
-  - E-Commerce
+  - tienda
+  - e-commerce
+  - online
 author: Maria Jose
 toc: true
 toc_label: "Secciones"
