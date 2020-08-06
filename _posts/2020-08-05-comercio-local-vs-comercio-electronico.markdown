@@ -2,6 +2,10 @@
 layout: single
 title: Comercio local VS Comercio electrónico
 categories: Marketing
+tags:
+  - comercio
+  - e-comercio
+  - online
 author: Maria Jose
 toc: true
 toc_label: "Secciones"
