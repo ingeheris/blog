@@ -5,7 +5,7 @@ main:
   - title: "Categorías"
     url: /categories/
     description : "Todas nuestras publicaciones ordenadas por categorías."
-  - title: "Acerca de Nosotros"
+  - title: "Qué hacemos"
     url: /about/
   - title: "Sitemap"
     url: /sitemap/
