@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "es-ES"
 title                    : "Blog Ingeheris"
 title_separator          : "-"
-subtitle                 : "Marketing Digital y Desarrollo web."# site tagline that appears below site title in masthead
+subtitle                 : "Compartimos nuestra pasión por la tecnología sostenible."# site tagline that appears below site title in masthead
 name                     : "Ingeheris"
-description              : "Blog tecnologico de la agencia digital Ingeheris."
+description              : "Blog tecnologico sobre Negocios Digitales."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -68,6 +68,11 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+#SEO
+seo_description : "Agencia Digital en Desarrollo Web"
+seo_title: "Somos los mejores Marketing Digital y Desarrollo Web en Valencia y Sagunto"
+tagline: "taglime Marketing Digital y Desarrollo Web en Valencia y Sagunto"
+
 # Social Sharing
 twitter:
   username               : "MJoseRuiz_seo"
@@ -94,7 +99,7 @@ analytics:
 # Site Author
 author:
   name        : "María José Ruiz"
-  bio         : "Especialista en Marketing Digital"
+  bio         : "Especialista en Marketing y Negocios Digitales"
   avatar      : "/assets/images/mj.jpg"
   links:
     - label: "Email"
@@ -205,6 +210,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -213,6 +219,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 
 # Archives

@@ -6,7 +6,7 @@ main:
     url: /categories/
     description : "Todas nuestras publicaciones ordenadas por categorías."
   - title: "Qué hacemos"
-    url: /about/
+    url: /marketing-digital-desarrollo-web-negocios-digitales/
   - title: "Sitemap"
     url: /sitemap/
   
