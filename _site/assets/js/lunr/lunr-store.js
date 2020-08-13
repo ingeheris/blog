@@ -10,4 +10,10 @@ var store = [{
         "tags": ["prospecto","cliente"],
         "url": "http://localhost:4000/marketing/que-es-un-prospecto-y-que-es-un-cliente/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "¿Qué son los llamados negocios digitales?",
+        "excerpt":"Con la nueva era post Covid se habla mucho de los negocios digitales y pueden surgir muchas interrogantes. Un negocio digital es aquel que ofrece un bien o servicio a través de canales digitales. Este negocio, bien puede ser aquel que usa la tecnología como herramienta principal y única en...","categories": ["Marketing"],
+        "tags": ["negocios","digital","cloud","online"],
+        "url": "http://localhost:4000/marketing/que-son-negocios-digitales/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
