@@ -2,6 +2,7 @@
 title: "Una aventura multicultural"
 layout: splash
 permalink: /marketing-digital-desarrollo-web-negocios-digitales/
+redirect_from: /about/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
