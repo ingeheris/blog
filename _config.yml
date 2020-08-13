@@ -20,7 +20,7 @@ title                    : "Blog Ingeheris"
 title_separator          : "-"
 subtitle                 : "Compartimos nuestra pasión por la tecnología sostenible."# site tagline that appears below site title in masthead
 name                     : "Ingeheris"
-description              : "Blog tecnologico sobre Negocios Digitales."
+description              : "Blog tecnológico sobre Negocios Digitales."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
