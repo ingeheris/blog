@@ -16,4 +16,10 @@ var store = [{
         "tags": ["negocios","digital","cloud","online"],
         "url": "http://localhost:4000/marketing/que-son-negocios-digitales/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "Inbound Marketing: ¡A toda vela!",
+        "excerpt":"Cuando salimos a navegar, necesitamos unas buenas velas para avanzar a buen ritmo en nuestra travesía. Igualmente, para adelantar en nuestro negocio, necesitamos que se nos conozca. Una forma muy del siglo XXI, muy actual, es el Inbound Marketing del que hablaremos hoy. Comencemos… ¿Qué es el Inbound Marketing? Bueno,...","categories": ["Marketing"],
+        "tags": ["inbound","digital"],
+        "url": "http://localhost:4000/marketing/inbound-marketing/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
