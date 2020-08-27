@@ -22,4 +22,10 @@ var store = [{
         "tags": ["inbound","digital"],
         "url": "http://localhost:4000/marketing/inbound-marketing/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "La Enseñanza Digital ¿Una nueva era para la Educación?",
+        "excerpt":"A día de hoy se habla mucho de la vuelta al colegio en plena pandemia por la Covid-19. Todo el mundo está de acuerdo en que es necesaria una vuelta a las aulas segura y con todas las garantías. Yo no voy a entrar en si la vuelta al cole...","categories": ["Marketing"],
+        "tags": ["educación","online","recursos digitales","era digital","docentes","enseñanza","digital"],
+        "url": "http://localhost:4000/marketing/ensenanza-digital-nueva-era-educacion/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
