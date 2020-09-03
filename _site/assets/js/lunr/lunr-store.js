@@ -28,4 +28,10 @@ var store = [{
         "tags": ["educación","online","recursos digitales","era digital","docentes","enseñanza","digital"],
         "url": "http://localhost:4000/marketing/ensenanza-digital-nueva-era-educacion/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "¿Es real la digitalización de España?",
+        "excerpt":"La digitalización en España, ¿es real?. Hoy hablaremos de este tema tan candente. Parece que la pandemia de este año nos ha abierto los ojos a una nueva realidad. Una realidad que hasta ahora parecía de ciencia ficción en España y es que en el siglo XXI, la digitalización no...","categories": ["Marketing"],
+        "tags": ["digitalización","españa","negocios"],
+        "url": "http://localhost:4000/marketing/realidad-digitalizacion-espana/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
