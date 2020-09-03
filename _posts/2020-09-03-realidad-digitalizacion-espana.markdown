@@ -30,6 +30,6 @@ Otra de las materias que no hemos aprobado es la **competencia digital**. En Esp
 
 Esto no es nada nuevo, incluso, hay profesores que reclaman **formación** en recursos digitales de su campo para impartir sus clases. El motivo es que la tecnología está en continuo cambio por lo que hay que reciclarse, ponerse al día para conseguir el mayor aprovechamiento de los recursos. Nuestros negocios son como los coches, hay que hacerles una puesta a punto para que funcionen correctamente y, pasado un tiempo, hay que cambiarlos porque han quedado obsoletos y no funcionan correctamente.
 
-Por eso, ¡¡¡ahora es el momento de ponerse al día!!!. **Renuévate** y dale a tu negocio un nuevo toque  tecnológico y digital. Si tienes dudas o quieres ampliar información, no dudes en ponerte en contacto [nosotros](http://ingeheris.com/#signup). 
+Por eso, ¡¡¡ahora es el momento de ponerse al día!!!. **Renuévate** y dale a tu negocio un nuevo toque  tecnológico y digital. Si tienes dudas o quieres ampliar información, no dudes en ponerte en contacto con [nosotros](http://ingeheris.com/#signup). 
 
 **¡¡¡Hasta el próximo post !!!**
