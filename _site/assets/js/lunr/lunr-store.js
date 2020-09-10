@@ -34,4 +34,10 @@ var store = [{
         "tags": ["digitalización","españa","negocios"],
         "url": "http://localhost:4000/marketing/realidad-digitalizacion-espana/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "Community Manager: Qué es y qué hace",
+        "excerpt":"Definición de Community Manager El término Community Manager surgió alrededor del año 1996 con la aparición de las redes sociales. Podemos definir al Community Manager (CM) como un profesional del Marketing Digital que se encarga de crear, gestionar y dinamizar una comunidad de usuarios en Internet que, en general, gira...","categories": ["Marketing"],
+        "tags": ["marketing","communitymanager","CM","digital","SEO"],
+        "url": "http://localhost:4000/marketing/community-manager/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
