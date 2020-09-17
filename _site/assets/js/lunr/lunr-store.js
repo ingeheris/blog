@@ -40,4 +40,10 @@ var store = [{
         "tags": ["marketing","communitymanager","CM","digital","SEO"],
         "url": "http://localhost:4000/marketing/community-manager/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "¿Cuánto me va a costar? El presupuesto fijo",
+        "excerpt":"Por qué desarrollar un proyecto de software con un precio fijo no es lo óptimo. Imagina que un día un cliente se acerca a ti y te dice: ¡Hola voy a lanzar un nuevo proyecto con una aplicación revolucionaria y tengo un presupuesto de x y necesito el desarrollo terminado...","categories": ["Desarrollo"],
+        "tags": ["Agile","Estimación","Proyecto","Software"],
+        "url": "http://localhost:4000/desarrollo/presupuestos-fijos-obsoletos/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]

@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-10T20:51:15+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog Ingeheris</title><subtitle>Blog tecnológico sobre Negocios Digitales.</subtitle><author><name>María José Ruiz</name></author><entry><title type="html">Community Manager: Qué es y qué hace</title><link href="http://localhost:4000/marketing/community-manager/" rel="alternate" type="text/html" title="Community Manager: Qué es y qué hace" /><published>2020-09-10T00:00:00+02:00</published><updated>2020-09-10T00:00:00+02:00</updated><id>http://localhost:4000/marketing/community-manager</id><content type="html" xml:base="http://localhost:4000/marketing/community-manager/">&lt;h1 id=&quot;definición-de-community-manager&quot;&gt;Definición de Community Manager&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-17T17:59:28+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog Ingeheris</title><subtitle>Blog tecnológico sobre Negocios Digitales.</subtitle><author><name>María José Ruiz</name></author><entry><title type="html">¿Cuánto me va a costar? El presupuesto fijo</title><link href="http://localhost:4000/desarrollo/presupuestos-fijos-obsoletos/" rel="alternate" type="text/html" title="¿Cuánto me va a costar? El presupuesto fijo" /><published>2020-09-17T00:00:00+02:00</published><updated>2020-09-17T00:00:00+02:00</updated><id>http://localhost:4000/desarrollo/presupuestos-fijos-obsoletos</id><content type="html" xml:base="http://localhost:4000/desarrollo/presupuestos-fijos-obsoletos/">&lt;h2 id=&quot;por-qué-desarrollar-un-proyecto-de-software-con-un-precio-fijo-no-es-lo-óptimo&quot;&gt;Por qué desarrollar un proyecto de software con un precio fijo no es lo óptimo.&lt;/h2&gt;
+
+&lt;p&gt;Imagina que un día un cliente se acerca a ti y te dice:
+¡Hola voy a lanzar un nuevo proyecto con una aplicación revolucionaria y tengo un presupuesto de x y necesito el desarrollo terminado para ayer!
+¡¡¡¡Mmm!!!!, si ya te suena de algo querido lector. ahora viene la pregunta del millón.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vale, no hay problema seguro que usted tiene una lista de las funcionalidades necesarias, ¡vamos, especificaciones detalladas de su proyecto!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En lo más profundo de tu alma, sabes ya la respuesta, pero siendo un optimista y ante tal entusiasmo, había que preguntar.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bueno…no exactamente…digamos que … sabrás más cuando tenga claro cuánto me va a costar!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ahh!!!, todo el subidón anterior acaba de desaparecer de un plumazo.
+Pero tu larga experiencia, te va a servir ahora.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sabe Caballero, no se puede estimar algo que se desconoce. Cualquiera que pretenda lo contrario, no es digno de representar nuestro gremio.&lt;/li&gt;
+  &lt;li&gt;Busco un freelance serio que se comprometa a llevar a cabo mi proyecto dentro de mi presupuesto y, por supuesto, dentro de unas fechas límites. ¡Es un proyecto ambicioso que vale la pena, ¿eres mi hombre o no?&lt;/li&gt;
+  &lt;li&gt;Delante de un proyecto tan apetitoso con un perímetro funcional tan incierto solo le puedo proponer un método de trabajo alternativo.&lt;/li&gt;
+  &lt;li&gt;Sigue…&lt;/li&gt;
+  &lt;li&gt;Se trata de una metodología llamada Agile (mola siempre más en inglés) se habla mucho de ella desde hace unos 15 años (incluso demasiado querido lector). La idea es la siguiente: Juntos determinamos a grandes rasgos todas las funcionalidades que necesita su App. Llamemos esta lista “Backlog” (¿Ya comenté que molaba siempre más en inglés?).&lt;/li&gt;
+  &lt;li&gt;Vale, tengo a mi lista, ¿y después qué?&lt;/li&gt;
+  &lt;li&gt;Después estimamos juntos el nivel de complejidad de cada funcionalidad.&lt;/li&gt;
+  &lt;li&gt;Ok, nada del otro mundo…&lt;/li&gt;
+  &lt;li&gt;Entonces, le toca seleccionar y ordenar estas funcionalidades por orden de prioridades.&lt;/li&gt;
+  &lt;li&gt;¡Hala, ya lo sabía! Vamos TODO es prioritario, a ver necesito que mi App detecte el Covid-19 que te haga el test de PCR, que te escanee y según tu morfología se conecte en SAHRA la tienda de ropa, seleccione automáticamente lo que te pega según la última temporada y que te lo mande por correo. Que somos gente razonable. Que no queremos que te contamines.&lt;/li&gt;
+  &lt;li&gt;Sí, efectivamente un proyecto ambicioso. Sigamos, la idea es de seleccionar y poner en primero las funcionalidades que sin la aplicación no podrían funcionar y que si por una razón o otra una funcionalidad tarda un poco más, se podría presentar el producto.&lt;/li&gt;
+  &lt;li&gt;Creo que entiendo lo que me quieres decir.&lt;/li&gt;
+  &lt;li&gt;A partir de ahí, tendremos una idea global de presupuesto necesario.&lt;/li&gt;
+  &lt;li&gt;Vale, ¿voy a saber cuánto me cuesta al final?&lt;/li&gt;
+  &lt;li&gt;Aquí se pone interesante: se selecciona las funcionalidades al principio del Backlog y trabajamos en ello durante 2 semanas. Se trata de entregar funcionalidades completas, probadas y validadas por usted. Usted paga por el trabajo realizado y pasamos a un ciclo de dos semanas más.&lt;/li&gt;
+  &lt;li&gt;¡Vamos que pago un pozo sin fondo, sin saber lo que va a costar al final!&lt;/li&gt;
+  &lt;li&gt;En absoluto Caballero. Con un presupuesto cerrado la incertidumbre es la misma. Solo que se le dice lo que quiere escuchar. Al final van a surgir problemas técnicos y cambios que harán que se va a duplicar, incluso triplicar el presupuesto inicial. Pero, una vez la máquina lanzada no hay marcha atrás. La principal dificultad de este tipo de desarrollo consiste en no definir un conjunto claro de funcionalidades adaptado al contexto.
+La idea es de mantener un control relativo en un contexto de proyecto por definición cambiante. Usted puede cambiar, adaptar, orientar el desarrollo por franjas de dos semanas. Se trata de mantener un equilibrio entre el tiempo de desarrollar algo útil y la necesitad de adaptar el proyecto a nuevas ideas y/o necesidades, sin olvidar la pregunta que nos llevó a todo esto: “¿Cuánto me va a costar?”  Como hemos definido funcionalidades concretas y completas, listas para ser entregadas, el cálculo se hace solo y sin engañar a nadie.&lt;/li&gt;
+  &lt;li&gt;Interesante, me lo voy a pensar. Pero te comenté lo del hijo de mi primo quien le gustan las cosas con los ordenadores. Hizo una página con WordPress, creo. Él trabaja barato y bien.&lt;/li&gt;
+  &lt;li&gt;Con todo mi respeto Caballero, al trabajo con el primo, …  ¡Resultado de primo!, bueno mas seriamente. Siempre habrá alguien para decirle: “¡Mire, por tanto le hago!”.  Pero seamos realistas, se tiene lo que se paga. Con un presupuesto fijo se suele chapucear hasta llegar al tope, y como se negoció a lo más barato posible, pues se tiene el resultado que se puede esperar.&lt;/li&gt;
+  &lt;li&gt;Muchísimas gracias, señor por su reflexión, fue un placer charlar con usted.&lt;/li&gt;
+  &lt;li&gt;El placer es mío, Don Cliente.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Alan Kleber</name></author><category term="Agile" /><category term="Estimación" /><category term="Proyecto" /><category term="Software" /></entry><entry><title type="html">Community Manager: Qué es y qué hace</title><link href="http://localhost:4000/marketing/community-manager/" rel="alternate" type="text/html" title="Community Manager: Qué es y qué hace" /><published>2020-09-10T00:00:00+02:00</published><updated>2020-09-10T00:00:00+02:00</updated><id>http://localhost:4000/marketing/community-manager</id><content type="html" xml:base="http://localhost:4000/marketing/community-manager/">&lt;h1 id=&quot;definición-de-community-manager&quot;&gt;Definición de Community Manager&lt;/h1&gt;
 
 &lt;p&gt;El término &lt;strong&gt;Community Manager&lt;/strong&gt; surgió alrededor del año 1996 con la aparición de las redes sociales. Podemos definir al Community Manager (CM) como un &lt;strong&gt;profesional&lt;/strong&gt; del Marketing Digital que se encarga de crear, gestionar y dinamizar una comunidad de usuarios en Internet que, en general, gira en torno a una marca y todo ello con independencia de la/s red/es social/es que utilice.
 Con la explosión de la era digital y la &lt;strong&gt;transformación digital&lt;/strong&gt; que se viene produciendo estos últimos años no sólo en el ámbito empresarial a gran escala sino también en pymes de todo el país, la figura del Community Manager es cada vez más relevante y , por ende, más demandada. Pero no todo el mundo tiene claro qué funciones desempeña dentro de una compañía, sea grande o pequeña, así que veamos cuáles son estas.&lt;/p&gt;
