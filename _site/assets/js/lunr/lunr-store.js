@@ -46,4 +46,10 @@ var store = [{
         "tags": ["Agile","Estimación","Proyecto","Software"],
         "url": "http://localhost:4000/desarrollo/presupuestos-fijos-obsoletos/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "¿Qué es un plan de social media marketing?",
+        "excerpt":"Un Plan de Social Media (PSM) o Plan de Contenidos para Redes Sociales es un documento que incluye todos los medios y soportes de comunicación utilizados por una marca o empresa para difundir sus mensajes publicitarios a su público o destinatarios. Normalmente, este documento se realiza en forma de un...","categories": ["Marketing"],
+        "tags": ["marketing","SocialMedia"],
+        "url": "http://localhost:4000/marketing/plan-social-media/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
