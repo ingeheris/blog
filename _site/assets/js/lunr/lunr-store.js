@@ -52,4 +52,10 @@ var store = [{
         "tags": ["marketing","SocialMedia"],
         "url": "http://localhost:4000/marketing/plan-social-media/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "Cookies de Google Analytics",
+        "excerpt":"En este post vamos a ver algo que intriga a muchos, qué son las cookies, qué cookies utiliza Google Analytics y cuál es su función. Las cookies son pequeños archivos con información que crean los sitios web que visitamos y que se almacenan en nuestro navegador de manera que los...","categories": ["Marketing"],
+        "tags": ["marketing","Google"],
+        "url": "http://localhost:4000/marketing/cookies-google-analytics/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]

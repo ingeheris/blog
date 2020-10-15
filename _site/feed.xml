@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-24T20:20:12+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog Ingeheris</title><subtitle>Blog tecnológico sobre Negocios Digitales.</subtitle><author><name>María José Ruiz</name></author><entry><title type="html">¿Qué es un plan de social media marketing?</title><link href="http://localhost:4000/marketing/plan-social-media/" rel="alternate" type="text/html" title="¿Qué es un plan de social media marketing?" /><published>2020-09-24T00:00:00+02:00</published><updated>2020-09-24T00:00:00+02:00</updated><id>http://localhost:4000/marketing/plan-social-media</id><content type="html" xml:base="http://localhost:4000/marketing/plan-social-media/">&lt;p&gt;Un &lt;strong&gt;Plan de Social Media&lt;/strong&gt; (PSM) o Plan de Contenidos para Redes Sociales es un documento que incluye todos los medios y soportes de comunicación utilizados por una marca o empresa para difundir sus mensajes publicitarios a su público o destinatarios.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-15T20:48:58+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog Ingeheris</title><subtitle>Blog tecnológico sobre Negocios Digitales.</subtitle><author><name>María José Ruiz</name></author><entry><title type="html">Cookies de Google Analytics</title><link href="http://localhost:4000/marketing/cookies-google-analytics/" rel="alternate" type="text/html" title="Cookies de Google Analytics" /><published>2020-10-15T00:00:00+02:00</published><updated>2020-10-15T00:00:00+02:00</updated><id>http://localhost:4000/marketing/cookies-google-analytics</id><content type="html" xml:base="http://localhost:4000/marketing/cookies-google-analytics/">&lt;p&gt;En este post vamos a ver algo que intriga a muchos, qué son las cookies, qué cookies utiliza Google Analytics y cuál es su función.&lt;/p&gt;
+
+&lt;p&gt;Las cookies son pequeños archivos con información que crean los sitios web que visitamos y que se almacenan en nuestro navegador de manera que los sitios web pueden consultar y guardar la navegación o actividad realizada. Como bien dice Google, gracias a las cookies, los sitios web:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No cierran sesión.&lt;/li&gt;
+  &lt;li&gt;Recuerdan tus preferencias del sitio.&lt;/li&gt;
+  &lt;li&gt;Ofrecen contenido relevante de la zona.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Google Analytics es la &lt;strong&gt;herramienta de análisis&lt;/strong&gt; de Google que ayuda a los propietarios de sitios web y de aplicaciones a entender cómo interactúan los visitantes con sus propiedades.&lt;/p&gt;
+&lt;h2 id=&quot;para-qué-se-usan-las-cookies&quot;&gt;¿Para qué se usan las cookies?&lt;/h2&gt;
+
+&lt;p&gt;Google Analytics utiliza cookies para &lt;strong&gt;recoger información y ofrecer estadísticas&lt;/strong&gt; de uso de los sitios web sin identificar personalmente a Google los visitantes de las mismas. 
+Las cookies se utilizan para :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Determinar el dominio&lt;/li&gt;
+  &lt;li&gt;Distinguir entre usuarios únicos&lt;/li&gt;
+  &lt;li&gt;Recordar número y duración de visitas&lt;/li&gt;
+  &lt;li&gt;Recordar la fuente de tráfico&lt;/li&gt;
+  &lt;li&gt;Determinar inicio y fin de sesión&lt;/li&gt;
+  &lt;li&gt;Recordar variables personalizadas que podemos crear para tener datos adicionales de una sesión.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Las cookies de Google Analytics son &lt;strong&gt;first-party cookies&lt;/strong&gt;, es decir, son cookies que se ejecutan únicamente dentro del dominio que el usuario está ejecutando.&lt;/p&gt;
+
+&lt;p&gt;Las cookies de Google Analytics no pueden recolectar información privada del usuario por la Ley de Protección de Datos.&lt;/p&gt;
+
+&lt;h2 id=&quot;tipos-de-cookies-de-google-analytics&quot;&gt;Tipos de cookies de Google Analytics&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“_utma” : esta cookie determina &lt;strong&gt;cuando se inicia la sesión del usuario y cuantas veces visita un sitio&lt;/strong&gt;, podemos decir, por tanto, que distingue entre usuarios y sesiones. Tiene una duración máxima de 2 años salvo que el usuario elimine esta cookie.&lt;/li&gt;
+  &lt;li&gt;“_utmb” : esta cookie se usa para determinar nuevas sesiones o visitas y &lt;strong&gt;registra la hora de llegada a la página&lt;/strong&gt;. Tiene una duración máxima de 30 minutos desde el último registro de página.&lt;/li&gt;
+  &lt;li&gt;“_utmc” : esta cookie se usa en combinación con la _utmb y esta cookie &lt;strong&gt;comprueba si se debe mantener la sesión o, por el contrario, abrir una nueva&lt;/strong&gt;. Esta cookie se elimina automáticamente al cambiar de página web o al cerrar el navegador.&lt;/li&gt;
+  &lt;li&gt;“_utmt” : con esta cookie se limita el porcentaje de solicitudes. La duración máxima de esta cookie es de 10 minutos.&lt;/li&gt;
+  &lt;li&gt;“_utmz” : es la cookie que identifica la fuente de tráfico o dato de campaña de usuario, es decir, &lt;strong&gt;identifica el origen del usuario y las keywords&lt;/strong&gt; y tiene una duración de 6 meses.&lt;/li&gt;
+  &lt;li&gt;“_utmv” : es la cookie relativa a las &lt;strong&gt;variables personalizadas&lt;/strong&gt; que creamos para identificar alguna serie de datos específicos de la actividad del usuario. Su duración es de 2 años.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En la UE, y más concretamente en España, se debe comunicar el uso de cookies al usuario.
+Este es un pequeño resumen de las cookies de Google Analytics pero podéis encontrar más información en la página de &lt;a href=&quot;https://policies.google.com/technologies/types?hl=es&quot;&gt;Google Analytics&lt;/a&gt;.&lt;/p&gt;</content><author><name>María José Ruiz</name></author><category term="marketing" /><category term="Google" /></entry><entry><title type="html">¿Qué es un plan de social media marketing?</title><link href="http://localhost:4000/marketing/plan-social-media/" rel="alternate" type="text/html" title="¿Qué es un plan de social media marketing?" /><published>2020-09-24T00:00:00+02:00</published><updated>2020-09-24T00:00:00+02:00</updated><id>http://localhost:4000/marketing/plan-social-media</id><content type="html" xml:base="http://localhost:4000/marketing/plan-social-media/">&lt;p&gt;Un &lt;strong&gt;Plan de Social Media&lt;/strong&gt; (PSM) o Plan de Contenidos para Redes Sociales es un documento que incluye todos los medios y soportes de comunicación utilizados por una marca o empresa para difundir sus mensajes publicitarios a su público o destinatarios.&lt;/p&gt;
 
 &lt;p&gt;Normalmente, este documento se realiza en forma de un &lt;strong&gt;calendario&lt;/strong&gt; de campañas de marketing para reflejar de una manera visual y rápida las fechas o períodos de difusión elegidos y los medios que utilizaremos en nuestra estrategia de marketing.&lt;/p&gt;
 &lt;h2 id=&quot;qué-diferencia-existe-entre-un-plan-de-comunicación-integral-y-un-plan-social-media&quot;&gt;¿Qué diferencia existe entre un Plan de Comunicación Integral y un plan social media?&lt;/h2&gt;
