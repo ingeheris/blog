@@ -58,4 +58,10 @@ var store = [{
         "tags": ["marketing","Google"],
         "url": "http://localhost:4000/marketing/cookies-google-analytics/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "Las extraescolares online, ¿tienen alguna ventaja?",
+        "excerpt":"Son muchas las opiniones sobre las clases extraescolares y si afinamos un poco más y hablamos de actividad extraescolar online, las opiniones se vuelven aún más dispares. Pero, ¿realmente son beneficiosas las actividades extracurriculares en formato e-learning? Mucho se ha hablado este tiempo de atrás sobre la vuelta al cole...","categories": ["Marketing"],
+        "tags": ["extraescolares","online","remoto"],
+        "url": "http://localhost:4000/marketing/extraescolares-online-tienen-alguna-ventaja/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
