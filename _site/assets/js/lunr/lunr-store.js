@@ -64,4 +64,10 @@ var store = [{
         "tags": ["extraescolares","online","remoto"],
         "url": "http://localhost:4000/marketing/extraescolares-online-tienen-alguna-ventaja/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "Auditoría de marca, ¿para qué sirve y cómo realizarla?",
+        "excerpt":"Cada vez que hablamos de auditoría, quizá la primera que nos viene a la mente es la tan temida auditoría financiera que se realiza en las empresas. Pero hoy vamos a hablar de una auditoría diferente, la auditoría de marca. Este tipo de auditoría debería de efectuarse de forma regular...","categories": ["Marketing"],
+        "tags": ["auditoria","marca","branding"],
+        "url": "http://localhost:4000/marketing/auditoria-marca/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
