@@ -70,4 +70,10 @@ var store = [{
         "tags": ["auditoria","marca","branding"],
         "url": "http://localhost:4000/marketing/auditoria-marca/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "¿Es aconsejable una LANDING PAGE con varios idiomas?",
+        "excerpt":"Hola de nuevo!!!!! Aquí estamos una vez más para hablar sobre marketing digital aunque esta semana vamos a tratar un tema un tanto particular, si es o no recomendable tener una Landing Page en varios idiomas. ¿Qué opináis vosotros? Me encantaría conocer vuestra opinión a este respecto, así que por...","categories": ["Marketing"],
+        "tags": ["landingpage","internacional"],
+        "url": "http://localhost:4000/marketing/landing-page-varios-idiomas/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
