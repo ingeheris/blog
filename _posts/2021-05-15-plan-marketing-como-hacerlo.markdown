@@ -17,7 +17,7 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/carta-navegacion.png
+  overlay_image: ./assets/images/carta-navegacion.png
   caption: ""
 excerpt: ""
 ---
