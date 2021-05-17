@@ -76,4 +76,10 @@ var store = [{
         "tags": ["landingpage","internacional"],
         "url": "http://localhost:4000/marketing/landing-page-varios-idiomas/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "¿Es imprescindible un blog en una web de empresa?",
+        "excerpt":"Cuando yo era pequeña, muchas niñas tenían su propio diario en el que escribían sus miles de aventuras y desventuras cada día. Todas estaban muy orgullosas de sus hazañas y lo reflejaban por escrito explicándolo con todo lujo de detalles pero también les servía para desahogarse cuando habían tenido un...","categories": ["Marketing"],
+        "tags": ["blog","web","copywriting","copywriter","contenido"],
+        "url": "http://localhost:4000/marketing/blog-imprescindible-web-empresa/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
