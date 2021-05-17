@@ -82,4 +82,10 @@ var store = [{
         "tags": ["blog","web","copywriting","copywriter","contenido"],
         "url": "http://localhost:4000/marketing/blog-imprescindible-web-empresa/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "Plan de Marketing, ¿Qué es y cómo hacerlo?",
+        "excerpt":"¿Te imaginas que eres un patrón de barco y te echas a la mar en busca de aventuras y lugares nuevos sin tus cartas de navegación? “¡¡Eso es una temeridad!!!”, pensarás. Pues bien, todo emprendedor o empresario ya sea pequeño o grande necesita sus cartas de navegación en buen estado...","categories": ["Marketing"],
+        "tags": ["plan","digital","marketing","herramienta","dafo","objetivo","target"],
+        "url": "http://localhost:4000/marketing/plan-marketing-como-hacerlo/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]

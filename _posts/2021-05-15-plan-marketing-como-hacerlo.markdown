@@ -47,7 +47,10 @@ Si quieres elaborar por ti mismo un Plan de Marketing para tu empresa o negocio 
 
 Para empezar, realiza una **descripción de los servicios/productos que ofreces** y continúa con un [**análisis DAFO**](https://wordpress.com/post/mjruizseo1.wordpress.com/98) de la situación en la que te encuentras en la actualidad ya que este análisis nos dará una visión completa de los aspectos tanto internos como externos y conoceremos mejor los aspectos que nos son ventajosos y también los que juegan en nuestra contra. Conocerlos es imprescindible ya que nos ayudará en nuestra toma de decisiones.
 
-
+|                         | FACTORES  INTERNOS | FACTORES  INTERNOS |
+|-------------------------|--------------------|--------------------|
+| **FACTORES  NEGATIVOS** | Debilidades        | Amenazas           |
+| **FACTORES  POSITIVOS** | Fortalezas         | Oportunidades      |
 
 ### 2.- Selecciona tu público objetivo
 
