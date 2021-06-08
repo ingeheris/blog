@@ -6,7 +6,7 @@ tags:
   - digital
   - marketing
   - CTA
-  -copywriting
+  - copywriting
 author: Maria Jose
 toc: true
 toc_label: "Secciones"
@@ -33,7 +33,7 @@ Si nuestro objetivo es que un lector de nuestro blog llegue a transformarse en u
 
 El CTA es crucial ya que nos permite mejorar nuestros resultados y conversiones. Es indispensable en el mundo del marketing ya que cada vez es menos útil emplear grandes cantidades de dinero en publicidad que no suele desencadenar en los resultados esperados y **una llamada a la acción en el momento y de la forma adecuada puede tener un impacto positivo en la persona**.
 
-La mayoría de las personas quieren tener acceso a la información y, sobre una base bien fundada, tomar la decisión de adquirir un producto o servicio. Así que ahí está nuestro desafío de informar de la manera correcta y en la forma que nuestro cliente potencial necesita para que pueda tomar buenas decisiones en el futuro sobre un problema o un dilema al que deberá enfrentarse. Y esto es aplicable a t**todos los sectores** en los que seamos expertos.
+La mayoría de las personas quieren tener acceso a la información y, sobre una base bien fundada, tomar la decisión de adquirir un producto o servicio. Así que ahí está nuestro desafío de informar de la manera correcta y en la forma que nuestro cliente potencial necesita para que pueda tomar buenas decisiones en el futuro sobre un problema o un dilema al que deberá enfrentarse. Y esto es aplicable a **todos los sectores** en los que seamos expertos.
 
 Entonces, ¿es información igual a panacea? A esto podemos responder con un rotundo NO porque hemos hablado de un cliente POTENCIAL, así que todavía no es nuestro cliente y no lo será si sólo le damos la información que puede encontrar en un manual de una biblioteca pública. 
 

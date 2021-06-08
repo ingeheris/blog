@@ -88,4 +88,10 @@ var store = [{
         "tags": ["plan","digital","marketing","herramienta","dafo","objetivo","target"],
         "url": "http://localhost:4000/marketing/plan-marketing-como-hacerlo/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
+      },{
+        "title": "¿Qué es un CTA (Call To Action) y por qué es importante ?",
+        "excerpt":"Introducción CTA son las siglas en inglés de Call To Action, lo que en español decimos: una llamada a la acción. Pero ¿qué es en realidad esta llamada a la acción? y ¿podemos hacerlo nosotros mismos o necesitamos la ayuda de terceros para conseguir los resultados que queremos? Empecemos por...","categories": ["Marketing"],
+        "tags": ["digital","marketing","CTA","copywriting"],
+        "url": "http://localhost:4000/marketing/call-to-action/",
+        "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
