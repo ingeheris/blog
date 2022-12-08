@@ -22,7 +22,7 @@ feature_row:
     image_caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
     alt: "Desarrollo web"
     title: "Business Intelligence"
-    excerpt: "Llevamos 20 años con el manejo de datos empresariales. Sabemos que no sólo se trate de ser capaz de visualizar tu datos pero de hacerles hablar  [**Pandas**](https://pandas.pydata.org/){:target='_blank'} y otras tecnologías BI serán tus amigas. Sin olvidar a nuestros compañeros **Python y SQL**"
+    excerpt: "Llevamos 20 años con el manejo de datos empresariales. Sabemos que no sólo se trata de ser capaz de visualizar tu datos pero de hacerles hablar  [**Pandas**](https://pandas.pydata.org/){:target='_blank'} y otras tecnologías BI serán tus amigas. Sin olvidar a nuestros compañeros **Python y SQL**"
     url: "https://ingeheris.com"
     btn_label: "Saber más"
     btn_class: "btn--primary"
