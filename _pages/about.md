@@ -11,7 +11,7 @@ header:
   caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
 excerpt: "Tecnologia sostenible Para Negocios digitales."
 intro: 
-  - excerpt: '**La agencia Ingeheris** fue fundada inicialmente en **2004** en Burdeos - Francia, ofreciendo servicios integrales en **Marketing digital** y **desarrollo web en el cloud**, acompañado del posicionamiento **SEO** y campañas de publicidad **SEM** adecuadas. Negociantes en vinos, traductores técnicos y muchos otros negocios se beneficiaron de nuestras prestaciones. Ahora la aventura continúa en **Valencia** y en particular en el **Puerto de Sagunto**, siguiendo con nuestra misión de apoyar a los negocios locales con soluciones técnicas sencillas pero eficientes.'
+  - excerpt: '**La agencia Ingeheris** fue fundada inicialmente en **2004** en Burdeos Francia ofreciendo servicios integrales en **Marketing digital** y **desarrollo de aplicaciones de gestión de negocios**, acompañado del posicionamiento **SEO** y campañas de publicidad **SEM** adecuadas. Negociantes en vinos, traductores técnicos y muchos otros negocios se beneficiaron de nuestras prestaciones. Ahora la aventura continúa en **Madrid** y en particular en **Coslada**, siguiendo con nuestra misión de apoyar a los negocios locales llevamos la Inteligencia de Negocio (**Business Intelligence**) y el dominio de los datos al alcance de todos.'
 feature_row:
   - image_path: assets/images/ipad.jpg
     image_caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
@@ -21,8 +21,8 @@ feature_row:
   - image_path: /assets/images/bg-signup.jpg
     image_caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
     alt: "Desarrollo web"
-    title: "Desarrollo web"
-    excerpt: "Llevamos 20 años con el desarrollo de aplicaciones web. [**ASP.Net Core**](https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core){:target='_blank'} y otras tecnologías Microsoft son nuestras amigas. Sin olvidar a nuestros compañeros **Ruby on Rails y PHP**"
+    title: "Business Intelligence"
+    excerpt: "Llevamos 20 años con el manejo de datos empresariales. Sabemos que no sólo se trate de ser capaz de visualizar tu datos pero de hacerles hablar  [**Pandas**](https://pandas.pydata.org/){:target='_blank'} y otras tecnologías BI serán tus amigas. Sin olvidar a nuestros compañeros **Python y SQL**"
     url: "https://ingeheris.com"
     btn_label: "Saber más"
     btn_class: "btn--primary"
